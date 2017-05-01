@@ -1,1 +1,3 @@
 # python_plot
+I find python plot is very boring because everytime I need to search all the materials for certain type of plot, like histogram...
+This is a glossary of python plot
